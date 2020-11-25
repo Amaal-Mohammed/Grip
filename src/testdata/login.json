@@ -1,0 +1,16 @@
+
+{
+
+  "validemail":    "amaal.adel88@gmail.com",
+  "validpassword":      "456",
+  "invalidemail":    "amaal.adel88@gmailcom",
+  "expectedsignupurl":"https://www.grip.tools/index.html#footer-form",
+  "ButtonIsactive": true,
+  "ButtonIsNotactive": false,
+  "errormegisdisplayed": true,
+  "foregetpasswordMeg": true,
+  "passwordecoverymsgisdisplayed": true,
+  "ButtonIsdisplayed": true,
+  "loginurl": "https://demo-v2.grip.tools/login"
+
+}
