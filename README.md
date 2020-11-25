@@ -9,4 +9,4 @@ How to run the tests
 Note:
 * Please make sure you use latest chrome version 87
 * Preferable IDE Visual studio code
-* A small demo  is added for more clarification
+* A small demo  is added for more clarification, Please check "Howtoruntestdemo".gif 
